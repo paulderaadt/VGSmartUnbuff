@@ -288,8 +288,9 @@ VGSmartUnbuff_PriorityList = {
 	["Greater Armor"] = {
 		["Interface\\Icons\\INV_Potion_86"] = 103,
 	},
+	-- Dirge's chops / gnome stew / roasted tauren
 	["Increased Stamina"] = {
-		["Interface\\Icons\\Spell_Misc_Food"] = 104,
+		["Interface\\Icons\\Spell_Misc_Food"] = 103.5,
 	},
 	["Well Fed"] = {
 		["Interface\\Icons\\Spell_Misc_Food"] = 104,
