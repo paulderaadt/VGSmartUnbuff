@@ -206,6 +206,9 @@ VGSmartUnbuff_PriorityList = {
 		["Interface\\Icons\\INV_Jewelry_Talisman_08"] = 72,
 	},
 	-- Important survival temporary buffs
+	["Fear Ward"] = {
+		["Interface\\Icons\\Spell_Holy_Excorcism"] = 73,
+	},
 	["Ancestral Fortitude"] = {
 		["Interface\\Icons\\Spell_Nature_UndyingStrength"] = 80,
 	},
