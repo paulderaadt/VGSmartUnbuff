@@ -288,6 +288,9 @@ VGSmartUnbuff_PriorityList = {
 	["Greater Armor"] = {
 		["Interface\\Icons\\INV_Potion_86"] = 103,
 	},
+	["Increased Stamina"] = {
+		["Interface\\Icons\\Spell_Misc_Food"] = 104,
+	},
 	["Well Fed"] = {
 		["Interface\\Icons\\Spell_Misc_Food"] = 104,
 	},
